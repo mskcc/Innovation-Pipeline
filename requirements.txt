@@ -47,7 +47,7 @@ openpyxl==1.8.6
 # todo: need to upgrade iAnnotateSV to 0.24.0
 # pandas==0.16.2
 coloredlogs==5.2
-pillow==3.4.2
+pillow==8.2.0
 biopython==1.65
 reportlab==3.3.0
 
